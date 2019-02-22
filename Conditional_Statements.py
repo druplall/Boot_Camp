@@ -10,3 +10,5 @@ if hungry == True:
     print('Its true')
 elif hungry == False:
     print('False')
+else:
+    print('This will never run bro!')
